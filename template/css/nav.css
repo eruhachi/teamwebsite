@@ -1,0 +1,148 @@
+/*made by Gwyneth*/
+/*regular navbar*/
+nav{
+  position: fixed;
+  text-align: center;
+  background-color: #e0e3e7;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 8vh;
+  width: 100%;
+  box-shadow: #787878 0.1px 0.1px 50px;
+  z-index: 10;
+}
+
+.nav-links{
+display: flex;
+justify-content: space-around;
+width: 80%;
+}
+
+.nav-links a{
+  color: #522c55;
+  font-size: 16px;
+}
+
+.bold a{
+  font-weight: bold;
+}
+
+.logo{
+  color: #a0177f;
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 30px;
+  transition: ease 100ms;
+}
+
+.logo:hover{
+  padding-bottom: 5px;
+  transition: ease 200ms;
+  cursor: pointer;
+}
+
+/*responsive navbar*/
+.stripes-menu div{
+width: 25px;
+height: 4px;
+background-color: white;
+border-radius: 50px;
+margin: 3px;
+}
+
+.stripes-menu{
+  display: none;
+}
+
+/*responsive for phone/tablet and such*/
+
+@media screen and (max-width:768px){
+  .nav-links{
+    position: absolute;
+    right: 0px;
+    height: 92vh;
+    background-color: #e0e3e7;
+    top: 8vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 2;
+    width: 50%;
+    transform: translateX(100%);
+    transition: transform 0.5s ease-in;
+  }
+
+  nav{
+    background-color: #e0e3e7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    width: 120%;
+  }
+
+.nav-links li{
+opacity: 0;
+}
+
+  body{
+    overflow-x: hidden;
+  }
+  .stripes-menu{
+    display: block;
+  }
+
+  .stripes-menu div{
+    width: 25px;
+    height: 4px;
+    background-color: #a0177f;
+    border-radius: 50px;
+    margin: 3px;
+    transition: all 0.5s ease-in;
+  }
+  .stripes-menu:hover{
+  cursor: pointer;
+  }
+}
+
+.nav-active{
+  transform: translateX(0);
+}
+
+
+/*links fading in*/
+@keyframes navLinkFade{
+     from{
+     opacity: 0;
+     transform: translateX(250px);
+     }
+
+     to{
+     opacity: 1;
+     transform: translateX(-50px);
+     }
+}
+
+/*line animation*/
+.toggle .line1{
+transform: rotate(-45deg) translate(-4px,6px);
+}
+
+.toggle .line2{
+opacity: 0;
+}
+
+.toggle .line3{
+transform: rotate(45deg) translate(-4px,-6px);
+}
+
+
+/*other shit that has to be here coz else it gets overwritten uwu*/
+a:hover{
+color: #a0177f;
+}
+
+p, h1:hover{
+cursor: default;
+}
