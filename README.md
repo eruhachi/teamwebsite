@@ -8,5 +8,11 @@ This is the template for the teamwebsite. Sorry if you get lost in my code I am 
 
 -It would be best to keep all the colours the same to create more of a coherent theme but pink gay so, if you change it try to follow my colourscheme like this: If you use blue for example use darker blue on elements that I also made darker, same with lighter colours. 
 
+# stuff you need to change
+- text (content 1, content 2, content 3) 
+- images 
+- decorations (optional)
+- social media icons in the footer, change the link
+
 If you need help you can always discord me. (eruhachi#3477)
 
