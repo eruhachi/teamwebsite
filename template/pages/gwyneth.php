@@ -10,18 +10,18 @@
     <link rel="stylesheet" href="../css/nav.css">
     <title>Gwyneth</title><!--Change to your name!-->
     <!--ignore this, it's nothing-->
-    <audio src="assets/audio/cave1.ogg" type="audio/ogg" id="cave1"></audio>
-    <audio src="assets/audio/cave2.ogg" type="audio/ogg" id="cave2"></audio>
-    <audio src="assets/audio/cave3.ogg" type="audio/ogg" id="cave3"></audio>
-    <audio src="assets/audio/cave4.ogg" type="audio/ogg" id="cave4"></audio>
-    <audio src="assets/audio/cave5.ogg" type="audio/ogg" id="cave5"></audio>
-    <audio src="assets/audio/cave6.ogg" type="audio/ogg" id="cave6"></audio>
-    <audio src="assets/audio/cave7.ogg" type="audio/ogg" id="cave7"></audio>
-    <audio src="assets/audio/cave8.ogg" type="audio/ogg" id="cave8"></audio>
-    <audio src="assets/audio/cave10.ogg" type="audio/ogg" id="cave10"></audio>
-    <audio src="assets/audio/cave11.ogg" type="audio/ogg" id="cave11"></audio>
-    <audio src="assets/audio/cave12.ogg" type="audio/ogg" id="cave12"></audio>
-    <audio src="assets/audio/cave13.ogg" type="audio/ogg" id="cave13"></audio>
+    <audio src="../assets/audio/cave1.ogg" type="audio/ogg" id="cave1"></audio>
+    <audio src="../assets/audio/cave2.ogg" type="audio/ogg" id="cave2"></audio>
+    <audio src="../assets/audio/cave3.ogg" type="audio/ogg" id="cave3"></audio>
+    <audio src="../assets/audio/cave4.ogg" type="audio/ogg" id="cave4"></audio>
+    <audio src="../assets/audio/cave5.ogg" type="audio/ogg" id="cave5"></audio>
+    <audio src="../assets/audio/cave6.ogg" type="audio/ogg" id="cave6"></audio>
+    <audio src="../assets/audio/cave7.ogg" type="audio/ogg" id="cave7"></audio>
+    <audio src="../assets/audio/cave8.ogg" type="audio/ogg" id="cave8"></audio>
+    <audio src="../assets/audio/cave10.ogg" type="audio/ogg" id="cave10"></audio>
+    <audio src="../assets/audio/cave11.ogg" type="audio/ogg" id="cave11"></audio>
+    <audio src="../assets/audio/cave12.ogg" type="audio/ogg" id="cave12"></audio>
+    <audio src="../assets/audio/cave13.ogg" type="audio/ogg" id="cave13"></audio>
   </head>
   <body>
 
