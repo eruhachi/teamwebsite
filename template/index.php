@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/style3.css">
     <link rel="stylesheet" href="css/nav.css">
-    <title>Template</title><!--Change to your name!-->
+    <title>Het team</title><!--Change to your name!-->
     <!--ignore this, it's nothing-->
     <audio src="assets/audio/cave1.ogg" type="audio/ogg" id="cave1"></audio>
     <audio src="assets/audio/cave2.ogg" type="audio/ogg" id="cave2"></audio>
@@ -30,6 +30,12 @@
 
     </div>
 
+
+    <footer>
+    <div class="nested-footer">
+    <p>© eruhachi</p>
+    <div class="icon1"><a href="https://www.instagram.com/eruhachi/" target="_blank"><img src="assets/IMG/instagram.png" alt="instagram"></a></div>
+    <div class="icon2"><a href="https://www.youtube.com/user/BenIkJouOma" target="_blank"><img src="assets/IMG/youtube.png" alt="youtube"></a></div>
 
 
 
