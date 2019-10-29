@@ -54,7 +54,7 @@
     <div class="text-box3">
       <h1>Projecten en opdrachten waar ik aan heb gewerkt</h1><br>
     <p><!--put your text here--></p></div>
-    <div class="deco4"><img src="../assets/IMG/deco1.gif" alt="bow"></div><div class="text-line3"></div><div class="deco5"><img src="assets/IMG/deco1.gif" alt="bow"></div>
+    <div class="deco4"><img src="../assets/IMG/deco1.gif" alt="bow"></div><div class="text-line3"></div><div class="deco5"><img src="../assets/IMG/deco1.gif" alt="bow"></div>
     <div class="text-box3-1">
     <p><!--put your text here--></p></div>
 
