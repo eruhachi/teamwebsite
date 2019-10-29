@@ -197,6 +197,8 @@ align-self: center;
 justify-self: center;
 grid-row: 3/4;
 grid-column: 5/6;
+color: #522c55;
+font-weight: bold;
 }
 
 /*social media icons*/
@@ -445,8 +447,3 @@ font-weight: bold;
   background-color: #e0e3e7;
   }
 }
-
-/*responsive for smaller devices with width smaller than 350px
-@media screen and (max-width:350px){
-
-}*/
