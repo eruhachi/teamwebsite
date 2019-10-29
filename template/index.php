@@ -1,6 +1,6 @@
 
 <!--made by Gwyneth-->
-<?php include 'php/nav.php';?>
+<?php include 'php/homepagenav.php';?>
 
 
 <!DOCTYPE html>
