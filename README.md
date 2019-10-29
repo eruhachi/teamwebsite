@@ -6,7 +6,7 @@ This is the template for the teamwebsite. Sorry if you get lost in my code I am 
 
 - If you change an image, please give it this class name: [your name], [your name2], [your name3] etc. Do this so it won't mess up other peoples images.
 
-- It would be best to keep all the colours the same to create more of a coherent theme but pink girly so, if you change it try to follow my colourscheme like this: If you use blue for example use darker blue on elements that I also made darker, same with lighter colours. I used this theme genrator: https://coolors.co/ I recommend using it.
+- It would be best to keep all the colours the same to create more of a coherent theme but pink girly so, if you change it try to follow my colourscheme like this: If you use blue for example use darker blue on elements that I also made darker, same with lighter colours. I used this colour scheme genrator: https://coolors.co/ I recommend using it.
 
 # stuff you need to change
 - text (content 1, content 2, content 3) 
