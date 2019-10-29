@@ -14,5 +14,7 @@ This is the template for the teamwebsite. Sorry if you get lost in my code I am 
 - decorations (optional)
 - social media icons in the footer, change the link
 
+### Don't forget to put this folder into your 'C:\xampp\htdocs' folder for windows and the '/var/www/html' folder for linux uwu
+
 If you need help you can always discord me. (eruhachi#3477)
 
