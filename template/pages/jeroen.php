@@ -35,7 +35,7 @@
     <div class="text-line1"></div>
     <div class="text-box1">
       <h1>Wie ben ik</h1><br>
-    <p>Joe</p>
+    <p><!--put your text here--></p>
     </div>
     <div class="deco1"><img src="../assets/IMG/deco1.gif" alt=""> </div>
     <div class="deco3"><img src="../assets/IMG/deco3.png" alt=""> </div>
@@ -43,18 +43,18 @@
 <!--content 2-->
     <div class="text-box2">
       <h1>Mijn sterke..</h1><br>
-    <p>Extract void energy from mortal souls</p> </div>
+    <p><!--put your text here--></p> </div>
     <div class="text-line2"></div>
     <div class="text-box2-1">
     <h1>en minder sterke punten</h1><br>
-    <p>Nothing. i am unstoppable</p> </div>
+    <p><!--put your text here--></p> </div>
     <div class="deco2"> <img src="../assets/IMG/deco2.png" alt="nintendo"></div>
 
 <!--content 3-->
     <div class="text-box3">
       <h1>Projecten en opdrachten waar ik aan heb gewerkt</h1><br>
-    <p>The universe</p></div>
-    <div class="deco4"><img src="../assets/IMG/deco1.gif" alt="bow"></div><div class="text-line3"></div><div class="deco5"><img src="assets/IMG/deco1.gif" alt="bow"></div>
+    <p><!--put your text here--></p></div>
+    <div class="deco4"><img src="../assets/IMG/deco1.gif" alt="bow"></div><div class="text-line3"></div><div class="deco5"><img src="../assets/IMG/deco1.gif" alt="bow"></div>
     <div class="text-box3-1">
     <p><!--put your text here--></p></div>
 
@@ -66,7 +66,7 @@
   <p>© eruhachi</p>
   <div class="icon1"><a href="https://www.instagram.com/eruhachi/" target="_blank"><img src="../assets/IMG/instagram.png" alt="instagram"></a></div>
   <div class="icon2"><a href="https://www.youtube.com/user/BenIkJouOma" target="_blank"><img src="../assets/IMG/youtube.png" alt="youtube"></a></div>
-ages/jeroen.php
+
 
 
   </div>
