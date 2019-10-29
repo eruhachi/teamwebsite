@@ -2,17 +2,17 @@
 <!--navigation-->
  <nav id="idNav">
    <div class="logo">
-    <h4>Magi</h4>
+    <h4><a href="../index.php">Magi</a></h4>
    </div>
   <ul class="nav-links">
-    <li class="bold"><a href="#">Het team</a></li>
-    <li><a href="#">Gwyneth</a></li>
-    <li><a href="#">Jeroen</a></li>
-    <li><a href="#">Eelke</a></li>
-    <li><a href="#">Jonean</a></li>
-    <li><a href="#">Rowan</a></li>
-    <li><a href="#">Eugene</a></li>
-    <li><a href="#">Rick</a></li>
+    <li class="bold"><a href="../index.php">Het team</a></li>
+    <li><a href="../pages/gwyneth.php">Gwyneth</a></li>
+    <li><a href="../pages/jeroen.php">Jeroen</a></li>
+    <li><a href="../pages/eelke.php">Eelke</a></li>
+    <li><a href="../pages/jonean.php">Jonean</a></li>
+    <li><a href="../pages/rowan.php">Rowan</a></li>
+    <li><a href="../pages/eugene.php">Eugene</a></li>
+    <li><a href="../pages/rick.php">Rick</a></li>
   </ul>
   <!--responsive nav-->
     <div class="stripes-menu">
