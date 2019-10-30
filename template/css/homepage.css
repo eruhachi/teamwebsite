@@ -1,0 +1,5 @@
+.slideItem{
+  width: 100vw;
+  display: none;
+  transition: ease;
+}

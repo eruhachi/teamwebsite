@@ -8,6 +8,7 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/style3.css">
+    <link rel="stylesheet" href="css/homepage.css">
     <link rel="stylesheet" href="css/nav.css">
     <title>Template</title><!--Change to your name!-->
     <!--ignore this, it's nothing-->
@@ -28,13 +29,27 @@
 
     <div id="idBody"class="wrapper">
 
+    <div class="grid">
+
+    <div class="slide">
+    <img class="slideItem" src="assets/IMG/slide1.jpg" alt="slide">
+    <img class="slideItem" src="assets/IMG/slide2.png" alt="slide">
+    <img class="slideItem" src="assets/IMG/slide3.jpg" alt="slide">
+
     </div>
 
 
 
 
+
+
+   </div>
+
+    </div>
+
     <!--scripts-->
     <script src="script/nav.js"></script>
+    <script src="script/slider.js"></script>
     <script src="script/init.js"></script>
     <script src="script/3am.js"></script>
   </body>
