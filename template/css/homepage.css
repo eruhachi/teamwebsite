@@ -2,8 +2,8 @@
   width: 100%;
   display: none;
   transition: ease 500ms;
-  border-bottom-left-radius: 25px;
-  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
 }
 
 .grid{
@@ -20,7 +20,7 @@
 .homepageText{
   grid-row: 2/3;
   grid-column: 2/5;
-  align-self: center;
+  align-self: end;
 }
 
 footer{
