@@ -7,21 +7,9 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="../css/style3.css">
+    <link rel="stylesheet" href="../css/rick.css">
     <link rel="stylesheet" href="../css/nav.css">
-    <title>your name</title><!--Change to your name!-->
-    <!--ignore this, it's nothing-->
-    <audio src="../assets/audio/cave1.ogg" type="audio/ogg" id="cave1"></audio>
-    <audio src="../assets/audio/cave2.ogg" type="audio/ogg" id="cave2"></audio>
-    <audio src="../assets/audio/cave3.ogg" type="audio/ogg" id="cave3"></audio>
-    <audio src="../assets/audio/cave4.ogg" type="audio/ogg" id="cave4"></audio>
-    <audio src="../assets/audio/cave5.ogg" type="audio/ogg" id="cave5"></audio>
-    <audio src="../assets/audio/cave6.ogg" type="audio/ogg" id="cave6"></audio>
-    <audio src="../assets/audio/cave7.ogg" type="audio/ogg" id="cave7"></audio>
-    <audio src="../assets/audio/cave8.ogg" type="audio/ogg" id="cave8"></audio>
-    <audio src="../assets/audio/cave10.ogg" type="audio/ogg" id="cave10"></audio>
-    <audio src="../assets/audio/cave11.ogg" type="audio/ogg" id="cave11"></audio>
-    <audio src="../assets/audio/cave12.ogg" type="audio/ogg" id="cave12"></audio>
-    <audio src="../assets/audio/cave13.ogg" type="audio/ogg" id="cave13"></audio>
+    <title>Rick Wiersma</title><!--Change to your name!-->
   </head>
   <body>
 
@@ -30,42 +18,40 @@
        <div class="grid">
    <!--content 1-->
     <!--replace the # with the name of your image-->
-    <div class="img1"> <img src="../assets/IMG/#" alt=""> </div>
+    <div class="img1"> <img src="../assets/IMG/portretrick.jpeg" alt=""> </div>
 
     <div class="text-line1"></div>
     <div class="text-box1">
       <h1>Wie ben ik</h1><br>
-    <p><!--put your text here--></p>
+    <p>Mijn naam is Rick Wiersma, ik ben 17 jaar en woon in Metslawier.<br>
+       Ik zit graag achter de computer, al is het om te gamen, youtube of netflix te kijken. Ik heb nog maar weinig ervaring met programmeren, de eerste keer dat ik ermee bezig geweest ben was voor de intake van deze opleiding.</p>
     </div>
-    <div class="deco1"><img src="../assets/IMG/deco1.gif" alt=""> </div>
-    <div class="deco3"><img src="../assets/IMG/deco3.png" alt=""> </div>
 
 <!--content 2-->
     <div class="text-box2">
       <h1>Mijn sterke..</h1><br>
-    <p><!--put your text here--></p> </div>
+    <p>Ik ben creatief wat goed van pas komt in het designen van de pagina's/site. Ook kan ik redelijk goed photoshoppen en kan de nodige logo's voor het team/ website maken </p> </div>
     <div class="text-line2"></div>
     <div class="text-box2-1">
     <h1>en minder sterke punten</h1><br>
-    <p><!--put your text here--></p> </div>
-    <div class="deco2"> <img src="../assets/IMG/deco2.png" alt="nintendo"></div>
+    <p>Ik wil graag overal op meekijken en de controle hebben. Ik vertrouw andere mensen niet met mijn werk om het zo te zeggen. Om met meerdere mensen te werken aan een opdracht gebeurt vaak en ik probeer hier ook aan te wennen.</p> </div>
 
 <!--content 3-->
     <div class="text-box3">
-      <h1>Projecten en opdrachten waar ik aan heb gewerkt</h1><br>
-    <p><!--put your text here--></p></div>
-    <div class="deco4"><img src="../assets/IMG/deco1.gif" alt="bow"></div><div class="text-line3"></div><div class="deco5"><img src="../assets/IMG/deco1.gif" alt="bow"></div>
+     <h1>Projecten en opdrachten waar ik aan heb gewerkt</h1><br>
+    <p><br><br>Ik heb nog weinig ervaring met programmeren en dus zijn de teamwebsite en de portfolio mijn eerste ervaringen met programmeren. </p></div>
+    <div class="text-line3"></div>
     <div class="text-box3-1">
-    <p><!--put your text here--></p></div>
+    <p><!-- TEKST --></p></div>
 
 
 
 
   <footer>
   <div class="nested-footer">
-  <p>© eruhachi</p>
-  <div class="icon1"><a href="https://www.instagram.com/eruhachi/" target="_blank"><img src="../assets/IMG/instagram.png" alt="instagram"></a></div>
-  <div class="icon2"><a href="https://www.youtube.com/user/BenIkJouOma" target="_blank"><img src="../assets/IMG/youtube.png" alt="youtube"></a></div>
+  <p>© HSUNITY</p>
+  <div class="icon1"><a href="https://www.instagram.com/rickwiersma_/" target="_blank"><img src="../assets/IMG/instagram.png" alt="instagram"></a></div>
+  <div class="icon2"><a href="https://www.github.com/HSUNITY" target="_blank"><img src="../assets/IMG/github.png" alt="youtube"></a></div>
 
 
 
