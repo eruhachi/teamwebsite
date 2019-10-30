@@ -1,5 +1,28 @@
 .slideItem{
-  width: 100vw;
+  width: 100%;
   display: none;
-  transition: ease;
+  transition: ease 500ms;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 108vh 92vh 30vh;
+}
+
+.slide{
+  grid-row: 1/2;
+  grid-column: 1/6;
+}
+
+.homepageText{
+  grid-row: 2/3;
+  grid-column: 2/5;
+  align-self: center;
+}
+
+footer{
+  grid-row: 4/5;
 }

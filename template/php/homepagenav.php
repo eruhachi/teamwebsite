@@ -2,10 +2,11 @@
 <!--navigation-->
  <nav id="idNav">
    <div class="logo">
-    <h4><a href="index.php">Magi</a></h4>
+    <h4><a href="index.php">MAGI</a></h4>
    </div>
   <ul class="nav-links">
-    <li class="bold"><a href="index.php">Het team</a></li>
+    <li class="bold"><a href="index.php">Het Team</a></li>
+    <div class="divider"></div>
     <li><a href="pages/gwyneth.php">Gwyneth</a></li>
     <li><a href="pages/jeroen.php">Jeroen</a></li>
     <li><a href="pages/eelke.php">Eelke</a></li>

@@ -19,6 +19,14 @@ justify-content: space-around;
 width: 80%;
 }
 
+.divider{
+background-color: #522c55;
+content: '';
+width: 0.25vw;
+height: 3vh;
+border-radius: 5px;
+}
+
 .nav-links a{
   color: #522c55;
   font-size: 16px;
@@ -80,6 +88,10 @@ margin: 3px;
     align-items: center;
     min-height: 8vh;
     width: 120%;
+  }
+
+  .divider{
+  display: none;
   }
 
 .nav-links li{

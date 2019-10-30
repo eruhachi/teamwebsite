@@ -35,6 +35,11 @@
     <img class="slideItem" src="assets/IMG/slide1.jpg" alt="slide">
     <img class="slideItem" src="assets/IMG/slide2.png" alt="slide">
     <img class="slideItem" src="assets/IMG/slide3.jpg" alt="slide">
+    </div>
+
+
+    <div class="homepageText">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
     </div>
 
@@ -44,12 +49,8 @@
     <p>© eruhachi</p>
     <div class="icon1"><a href="https://www.instagram.com/eruhachi/" target="_blank"><img src="assets/IMG/instagram.png" alt="instagram"></a></div>
     <div class="icon2"><a href="https://www.youtube.com/user/BenIkJouOma" target="_blank"><img src="assets/IMG/youtube.png" alt="youtube"></a></div>
-
-
-
-
-
    </div>
+   </footer>
 
     </div>
 
