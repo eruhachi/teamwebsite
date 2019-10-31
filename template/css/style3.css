@@ -185,7 +185,7 @@ background-color: #e0e3e7;
 
 /*grid for the footer*/
 .nested-footer{
-height: 30vh;
+height: 3vh;
 display: grid;
 grid-template-columns: repeat(9, 1fr);
 grid-template-rows: repeat(5, 6vh);

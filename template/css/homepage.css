@@ -1,15 +1,18 @@
+body{
+  overflow: hidden;
+}
+
 .slideItem{
   width: 100%;
   display: none;
   transition: ease 500ms;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
+  background-size: cover;
 }
 
 .grid{
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: 108vh 92vh 30vh;
+  grid-template-rows: 108vh 15vh;
 }
 
 .slide{
@@ -17,12 +20,16 @@
   grid-column: 1/6;
 }
 
-.homepageText{
-  grid-row: 2/3;
-  grid-column: 2/5;
-  align-self: end;
-}
 
 footer{
-  grid-row: 4/5;
+  grid-row: 2/3;
+  height: 15vh;
+}
+
+@media screen and (max-width:768px) {
+  .slideItem{
+  max-height: 100%;
+  width: auto;
+  }
+
 }
