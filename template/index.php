@@ -35,20 +35,12 @@
     <img class="slideItem" src="assets/IMG/slide1.jpg" alt="slide">
     <img class="slideItem" src="assets/IMG/slide2.jpg" alt="slide">
     <img class="slideItem" src="assets/IMG/slide3.jpg" alt="slide">
+    <img class="slideItem" src="assets/IMG/slide4.jpg" alt="slide">
     </div>
 
-
-
-    <!--<footer>
-    <div class="nested-footer">
-    <p>© eruhachi</p>
-    <div class="icon1"><a href="https://www.instagram.com/eruhachi/" target="_blank"><img src="assets/IMG/instagram.png" alt="instagram"></a></div>
-    <div class="icon2"><a href="https://www.youtube.com/user/BenIkJouOma" target="_blank"><img src="assets/IMG/youtube.png" alt="youtube"></a></div>
-   </div>
- </footer>-->
-
     </div>
-
+    <div id="pink"><img  src="assets/IMG/pink2.png" alt="pink filter"></div>
+  </div>
     <!--scripts-->
     <script src="script/nav.js"></script>
     <script src="script/slider.js"></script>

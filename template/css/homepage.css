@@ -2,10 +2,21 @@ body{
   overflow: hidden;
 }
 
+#pink{
+  z-index: 5;
+  position: absolute;
+  top: 0;
+}
+
+#pink img{
+  height: 100vh;
+  width: 100vw;
+}
+
 .slideItem{
   width: 100%;
   display: none;
-  transition: ease 500ms;
+  transition: ease 400ms;
   background-size: cover;
 }
 
@@ -30,7 +41,11 @@ footer{
   .slideItem{
   max-height: 100%;
   width: auto;
+  }
 
+  #pink img{
+    height: 100vh;
+    width: auto;
   }
 
 }
