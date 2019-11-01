@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="../css/style3.css">
     <link rel="stylesheet" href="../css/nav.css">
-    <title>your name</title><!--Change to your name!-->
+    <title>Jeroen</title><!--Change to your name!-->
     <!--ignore this, it's nothing-->
     <audio src="../assets/audio/cave1.ogg" type="audio/ogg" id="cave1"></audio>
     <audio src="../assets/audio/cave2.ogg" type="audio/ogg" id="cave2"></audio>
@@ -35,7 +35,7 @@
     <div class="text-line1"></div>
     <div class="text-box1">
       <h1>Wie ben ik</h1><br>
-    <p>Ik ben Jeroen. Ik ben 16 jaar oud en doe Applicatie Ontwikkeling op de ROC Friese Poort</p>
+    <p>Ik ben Jeroen. Ik ben 16 jaar oud en doe Applicatie Ontwikkeling op de ROC Friese Poort. Mijn hobbies zijn programmeren en gamen.</p>
     </div>
     <div class="deco1"><img src="../assets/IMG/deco1.gif" alt=""> </div>
     <div class="deco3"><img src="../assets/IMG/deco3.png" alt=""> </div>
@@ -47,19 +47,16 @@
     <div class="text-line2"></div>
     <div class="text-box2-1">
     <h1>en minder sterke punten</h1><br>
-    <p>Design</p> </div>
+    <p>Ik ben slecht in design met CSS en ik kan soms niet goed uitleggen omdat ik soms te technisch denk.</p> </div>
     <div class="deco2"> <img src="../assets/IMG/deco2.png" alt="nintendo"></div>
 
 <!--content 3-->
     <div class="text-box3">
       <h1>Projecten en opdrachten waar ik aan heb gewerkt</h1><br>
-    <p>Deze pagina en 3am.js</p></div>
+    <p>Deze pagina, 3am.js, een telegram bot en ook zijn we bezig met een webapp aan het maken.</p></div>
     <div class="deco4"><img src="../assets/IMG/deco1.gif" alt="bow"></div><div class="text-line3"></div><div class="deco5"><img src="../assets/IMG/deco1.gif" alt="bow"></div>
     <div class="text-box3-1">
-    <p><!--put your text here--></p></div>
-
-
-
+    <p></p></div>
 
   <footer>
   <div class="nested-footer">
