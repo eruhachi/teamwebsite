@@ -35,7 +35,7 @@
     <div class="text-line1"></div>
     <div class="text-box1">
       <h1>Wie ben ik</h1><br>
-    <p>Ik ben Jeroen. Ik ben 16 jaar oud en doe Applicatie Ontwikkeling op de ROC Friese Poort. Mijn hobbies zijn programmeren en gamen.</p>
+      <p>Ik ben Jeroen. Ik ben 16 jaar oud en ik volg Applicatie Ontwikkeling op de ROC Friese Poort in Leeuwarden. Mijn hobbies zijn programmeren en gamen.</p>
     </div>
     <div class="deco1"><img src="../assets/IMG/deco1.gif" alt=""> </div>
     <div class="deco3"><img src="../assets/IMG/deco3.png" alt=""> </div>
