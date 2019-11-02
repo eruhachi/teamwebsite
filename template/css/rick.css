@@ -1,0 +1,42 @@
+body{
+    background-image: radial-gradient(#e0e3e7, #6791ec);
+  }
+
+  .img1 img, .img2 img, .img3 img{
+    height: 350px;
+    width: auto;
+    border: solid 4px #e0e3e7;
+  }
+
+  .text-line1{
+    background-color: #161a3f;
+    height: 45vh;
+    }
+    
+    .text-line1:hover{
+    height: 20vh;
+    }
+    
+    
+    .text-line2{
+    background-color: #161a3f;
+    }
+    
+    .text-line2:hover{
+    height: 30vh;
+    }
+    
+    .text-line3{
+    background-color: #161a3f;
+    }
+    
+    .nested-footer p{
+        color: #161a3f;
+        }
+
+        .grid p{
+            color: #161a3f;
+          }
+        .grid h1{
+            color: #161a3f;
+        }
