@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="../css/style3.css">
     <link rel="stylesheet" href="../css/nav.css">
-    <title>your name</title><!--Change to your name!-->
+    <title>Eelke</title><!--Change to your name!-->
     <!--ignore this, it's nothing-->
     <audio src="../assets/audio/cave1.ogg" type="audio/ogg" id="cave1"></audio>
     <audio src="../assets/audio/cave2.ogg" type="audio/ogg" id="cave2"></audio>
@@ -30,12 +30,12 @@
        <div class="grid">
    <!--content 1-->
     <!--replace the # with the name of your image-->
-    <div class="img1"> <img src="../assets/IMG/#" alt=""> </div>
+    <div class="img1"> <img src="../assets/IMG/Eelke.jpg" alt=""> </div>
 
     <div class="text-line1"></div>
     <div class="text-box1">
       <h1>Wie ben ik</h1><br>
-    <p><!--put your text here--></p>
+    <p>Hallo ik ben Eelke Sonnema, ik ben 17. ik houd van muziek, lezen en ben al mijn hele leven een computer enthousiast. Ik ben ook een student op de ROC FriesePoort leeuwarden bij de opleiding AO(Applicatie ontwikeling).</p>
     </div>
     <div class="deco1"><img src="../assets/IMG/deco1.gif" alt=""> </div>
     <div class="deco3"><img src="../assets/IMG/deco3.png" alt=""> </div>
@@ -43,20 +43,20 @@
 <!--content 2-->
     <div class="text-box2">
       <h1>Mijn sterke..</h1><br>
-    <p><!--put your text here--></p> </div>
+    <p>Ik neem initiatief, ben gezellig, leer snel en kan leiden</p> </div>
     <div class="text-line2"></div>
     <div class="text-box2-1">
     <h1>en minder sterke punten</h1><br>
-    <p><!--put your text here--></p> </div>
+    <p>ik praat soms door mensen heen.</p> </div>
     <div class="deco2"> <img src="../assets/IMG/deco2.png" alt="nintendo"></div>
 
 <!--content 3-->
     <div class="text-box3">
       <h1>Projecten en opdrachten waar ik aan heb gewerkt</h1><br>
-    <p><!--put your text here--></p></div>
+    <p>Ik heb een portfolio website gemaakt voor een opdracht van school.</p></div>
     <div class="deco4"><img src="../assets/IMG/deco1.gif" alt="bow"></div><div class="text-line3"></div><div class="deco5"><img src="../assets/IMG/deco1.gif" alt="bow"></div>
     <div class="text-box3-1">
-    <p><!--put your text here--></p></div>
+    <p>Ik heb ook een template voor een teamwebsite gemaakt we maakten allemaal één en kozen aan het eind.</p></div>
 
 
 

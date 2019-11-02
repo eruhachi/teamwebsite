@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/style3.css">
     <link rel="stylesheet" href="css/homepage.css">
     <link rel="stylesheet" href="css/nav.css">
-    <title>Het team</title><!--Change to your name!-->
+    <title>Het Team</title><!--Change to your name!-->
     <!--ignore this, it's nothing-->
     <audio src="assets/audio/cave1.ogg" type="audio/ogg" id="cave1"></audio>
     <audio src="assets/audio/cave2.ogg" type="audio/ogg" id="cave2"></audio>
