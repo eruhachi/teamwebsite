@@ -6,7 +6,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="../css/style3.css">
+    <link rel="stylesheet" href="../css/Eelke.css">
     <link rel="stylesheet" href="../css/nav.css">
     <title>Eelke</title><!--Change to your name!-->
     <!--ignore this, it's nothing-->
