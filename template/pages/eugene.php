@@ -1,12 +1,10 @@
-<?php include '../php/nav.php';?>
-
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="../css/style3.css">
     <link rel="stylesheet" href="../css/nav.css">
+    <link rel="stylesheet" href="../css/eugene.css">
     <title>Eugene van Dolderen</title>
     <audio src="../assets/audio/cave1.ogg" type="audio/ogg" id="cave1"></audio>
     <audio src="../assets/audio/cave2.ogg" type="audio/ogg" id="cave2"></audio>
@@ -22,9 +20,9 @@
     <audio src="../assets/audio/cave13.ogg" type="audio/ogg" id="cave13"></audio>
   </head>
   <body>
-
+  
     <div id="idBody"class="wrapper">
-
+    <?php include '../php/nav.php';?>
        <div class="grid">
    <!--content 1-->
     <div class="img1"> <img src="../assets/IMG/Eugene.jpg" alt=""> </div>
@@ -39,12 +37,12 @@
       er echt niet tegen kunnen als ik dingen niet af zou hebben.  Ik ga net zolang
       door totdat het af is en werk compleet goed gemaakt is.  Ik ben ook heel erg
       pietje precies, dus ik ben pas klaar totdat ik tevreden ben!
-      Verder is mijn leven wat gecompliceerder dan de gewone mens, want ik heb namelijk een handicap: <a href="https://www.hersenletsel-uitleg.nl/oorzaken-ziektebeelden/cerebrale-parese-cp">Cere Brale Parese</a> <br>
+      Verder is mijn leven wat gecompliceerder dan de gewone mens, want ik heb namelijk een handicap: <br> <a href="https://www.hersenletsel-uitleg.nl/oorzaken-ziektebeelden/cerebrale-parese-cp">Cere Brale Parese</a> <br>
       Verder woon ik gewoon nog thuis met mijn ouders en zus en een hondje!
       </p>
     </div>
-    <div class="deco1"><img src="../assets/IMG/Yasuo.jpg" alt=""> </div>
-    <div class="deco3"><img src="../assets/IMG/Eugene1.jpg" alt=""> </div>
+    <div class="deco1"><img src="../assets/IMG/Yasuo.png" alt="Yasuo"> </div>
+    <div class="deco3"><img src="../assets/IMG/Eugene1.png" alt="Mijn zus+hond"> </div>
 
 <!--content 2-->
     <div class="text-box2">
@@ -61,7 +59,7 @@ Mijn communicatie is slecht, omdat ik gewend ben om gewoon voor mezelf te werken
 Het presenteren gaat bij mij ook niet zoals ik het wil, want ik wil altijd veels te veel laten zien.
 Dus dat zijn twee eigenschappen waar ik aan kan werken.
 </p> </div>
-    <div class="deco2"> <img src="../assets/IMG/jinx.jpg" alt="nintendo"></div>
+    <div class="deco2"> <img src="../assets/IMG/jinx.png" alt="Jinx"></div>
 
 <!--content 3-->
     <div class="text-box3">
@@ -69,7 +67,7 @@ Dus dat zijn twee eigenschappen waar ik aan kan werken.
     <p>Op school hebben we gegarandeerd projecturen, dus dan word aan jou gevraagd of je bijvoorbeeld naar een bedrijf wilt en checken of het goede hackbeveiliging heeft.
 Of je gaat zelf naar de docent die over de projecturen gaat, dan zal je zelf iets moeten weten waar ze je hulp nodig hebben om iets te controleren, of iets heel anders gaan maken.
 </p></div>
-    <div class="deco4"><img src="../assets/IMG/bruinzwaard.jpg" alt="bow"></div><div class="text-line3"></div><div class="deco5"><img src="../assets/IMG/zwartzwaard.jpg" alt="bow"></div>
+    <div class="deco4"><img src="../assets/IMG/bruinzwaard.png" alt="bruinzwaard"></div><div class="text-line3"></div><div class="deco5"><img src="../assets/IMG/zwartzwaard.png" alt=""></div>
     <div class="text-box3-1">
     <p>Bijvoorbeeld mijn vader werkt bij Defensie, misschien hebben hun een website nodig. Als ik dan word gevraagd, dan moet ik naar de docent gaan, dan gaan vragen of al dat kan.
     Ik ben zoals ik al 2x heb verteld heel gemotiveerd. Dus wat mij betreft wil ik alles kunnen wat met programmeren te maken heeft.
