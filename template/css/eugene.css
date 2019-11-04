@@ -18,3 +18,8 @@ body{
 .logo, .logo:hover{
 	color: #12418a;
 }
+
+
+footer{
+	grid-row:11/11;
+}
