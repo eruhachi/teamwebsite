@@ -1,0 +1,20 @@
+body{
+    background-image: radial-gradient(#8ea1bf, #4a7fd4);
+    background-attachment: fixed;
+}
+
+.text-line1, .text-line2, .text-line3{
+	background-color:#182842;
+}
+
+.grid h1, .grid p{
+	color:#2b3d59;
+}
+
+.nav-links a{
+	color:#12418a;
+}
+
+.logo, .logo:hover{
+	color: #12418a;
+}
