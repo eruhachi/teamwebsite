@@ -20,7 +20,7 @@
     <audio src="../assets/audio/cave13.ogg" type="audio/ogg" id="cave13"></audio>
   </head>
   <body>
-  
+
     <div id="idBody"class="wrapper">
     <?php include '../php/nav.php';?>
        <div class="grid">
@@ -42,7 +42,7 @@
       </p>
     </div>
     <div class="deco1"><img src="../assets/IMG/Yasuo.png" alt="Yasuo"> </div>
-    <div class="deco3"><img src="../assets/IMG/Eugene1.png" alt="Mijn zus+hond"> </div>
+    <div class="deco3"><img src="../assets/IMG/Eugene1.jpg" alt="Mijn zus+hond"> </div>
 
 <!--content 2-->
     <div class="text-box2">
