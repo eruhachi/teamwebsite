@@ -1,8 +1,5 @@
 
 <!--made by Gwyneth-->
-<?php include 'php/homepagenav.php';?>
-
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -26,6 +23,7 @@
     <audio src="assets/audio/cave13.ogg" type="audio/ogg" id="cave13"></audio>
   </head>
   <body>
+    <?php include 'php/homepagenav.php';?>
 
     <div id="idBody"class="wrapper">
 

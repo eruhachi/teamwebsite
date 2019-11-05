@@ -44,7 +44,7 @@ width: auto;
   height: 100%;
   display: grid;
   grid-template-columns: repeat(7, 1fr);
-  grid-template-rows: repeat(15, 30vh);
+  grid-template-rows: repeat(12, 30vh);
 }
 
 /*the images in the grid*/

@@ -20,9 +20,9 @@
     <audio src="../assets/audio/cave13.ogg" type="audio/ogg" id="cave13"></audio>
   </head>
   <body>
-
+<?php include '../php/nav.php';?>
     <div id="idBody"class="wrapper">
-    <?php include '../php/nav.php';?>
+
        <div class="grid">
    <!--content 1-->
     <div class="img1"> <img src="../assets/IMG/Eugene.jpg" alt=""> </div>

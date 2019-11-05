@@ -1,7 +1,4 @@
 <!--made by Gwyneth-->
-<?php include '../php/nav.php'; ?>
-
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -14,6 +11,7 @@
 </head>
 
 <body>
+  <?php include '../php/nav.php'; ?>
 
   <div id="idBody" class="wrapper">
 

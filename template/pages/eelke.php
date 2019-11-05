@@ -1,11 +1,9 @@
 <!--made by Gwyneth-->
-<?php include '../php/nav.php';?>
-
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="../css/style3.css">
     <link rel="stylesheet" href="../css/Eelke.css">
     <link rel="stylesheet" href="../css/nav.css">
     <title>Eelke</title><!--Change to your name!-->
@@ -24,6 +22,7 @@
     <audio src="../assets/audio/cave13.ogg" type="audio/ogg" id="cave13"></audio>
   </head>
   <body>
+    <?php include '../php/nav.php';?>
 
     <div id="idBody"class="wrapper">
 
