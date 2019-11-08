@@ -51,7 +51,7 @@
 
       <footer>
         <div class="nested-footer">
-          <p>© HSUNITY</p>
+          <p>© eruhachi</p>
           <div class="icon1"><a href="https://www.instagram.com/rickwiersma_/" target="_blank"><img src="../assets/IMG/instagram.png" alt="instagram"></a></div>
           <div class="icon2"><a href="https://www.github.com/HSUNITY" target="_blank"><img src="../assets/IMG/github.png" alt="youtube"></a></div>
 

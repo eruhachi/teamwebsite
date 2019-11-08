@@ -64,9 +64,7 @@
   <footer>
   <div class="nested-footer">
   <p>© eruhachi</p>
-  <div class="icon1"><a href="https://www.instagram.com/eruhachi/" target="_blank"><img src="../assets/IMG/instagram.png" alt="instagram"></a></div>
-  <div class="icon2"><a href="https://www.youtube.com/user/BenIkJouOma" target="_blank"><img src="../assets/IMG/youtube.png" alt="youtube"></a></div>
-
+  
 
 
   </div>
